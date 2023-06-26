@@ -20,6 +20,7 @@ Let’s do this together!
 
 # My Digital Badges
 
+[![AWS Learning: Object Storage](https://images.credly.com/size/130x130/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](https://www.credly.com/badges/21282a86-30df-4054-a552-569eca1c100f "AWS Learning: Object Storage")
 [![AWS Learning: AWS for Games: Cloud Game Development](https://images.credly.com/size/130x130/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](https://www.credly.com/badges/a2450a87-54d6-4cf0-99ca-22163530f33a "AWS Learning: AWS for Games: Cloud Game Development")
 [![AWS Learning: Architecting](https://images.credly.com/size/130x130/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/ad2082cf-bf19-4054-ab27-89e762a8f24d "AWS Learning: Architecting")
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/130x130/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/ebbd0494-5d31-4498-b36c-65478a4e3421 "Microsoft 365 Certified: Fundamentals")
