@@ -20,7 +20,7 @@ Let’s do this together!
 
 # My Digital Badges
 
-[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/130x130/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)]([https://www.credly.com/badges/800efbf2-3767-469b-8743-f14db219b304](https://www.credly.com/badges/46c5f968-242e-477b-977a-4daf01092377) "HashiCorp Certified: Terraform Associate")
+[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/130x130/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](https://www.credly.com/badges/46c5f968-242e-477b-977a-4daf01092377 "HashiCorp Certified: Terraform Associate")
 [![AWS Learning: Serverless](https://images.credly.com/size/130x130/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](https://www.credly.com/badges/800efbf2-3767-469b-8743-f14db219b304 "AWS Learning: Serverless")
 [![AWS Learning: Object Storage](https://images.credly.com/size/130x130/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](https://www.credly.com/badges/21282a86-30df-4054-a552-569eca1c100f "AWS Learning: Object Storage")
 [![AWS Learning: AWS for Games: Cloud Game Development](https://images.credly.com/size/130x130/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](https://www.credly.com/badges/a2450a87-54d6-4cf0-99ca-22163530f33a "AWS Learning: AWS for Games: Cloud Game Development")
