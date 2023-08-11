@@ -74,24 +74,29 @@ spec:
 ```
 
 # My Recommendations
+
 📕 Check out my collection of [essential DevOps books](https://kit.co/heyValdemar/essential-devops-books)\
 🖥️ Check out my [studio streaming and recording kit](https://kit.co/heyValdemar/my-studio-streaming-and-recording-kit)\
 📡 Check out my [streaming starter kit](https://kit.co/heyValdemar/streaming-starter-kit)
 
 # Follow Me
+
 🎬 Follow me on [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
 🐦 Follow me on [Twitter](https://twitter.com/heyValdemar)\
 🎨 Follow me on [Instagram](https://www.instagram.com/heyvaldemar/)\
+🐘 Follow me on [Mastodon](https://hachyderm.io/@heyValdemar)\
 🎸 Follow me on [Facebook](https://www.facebook.com/heyValdemarFB/)\
 🎥 Follow me on [TikTok](https://www.tiktok.com/@heyvaldemar)\
 💻 Follow me on [LinkedIn](https://www.linkedin.com/in/heyvaldemar/)\
 🐈 Follow me on [GitHub](https://github.com/heyvaldemar)
 
 # Communication
+
 👾 Chat with IT pros on [Discord](https://discord.gg/AJQGCCBcqf)\
 📧 Reach me at ask@sre.gg
 
 # Give Thanks
+
 💎 Support on [GitHub](https://github.com/sponsors/heyValdemar)\
 🏆 Support on [Patreon](https://www.patreon.com/heyValdemar)\
 🥤 Support on [BuyMeaCoffee](https://www.buymeacoffee.com/heyValdemar)\
