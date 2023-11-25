@@ -19,6 +19,7 @@ Let’s do this together!
 💬 Join my DevOps community on [Discord](https://discord.gg/AJQGCCBcqf)
 
 # My Digital Badges
+[![AWS Knowledge: Networking Core](https://images.credly.com/size/150x150/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](https://www.credly.com/earner/earned/badge/a2ff9320-0300-4de9-b218-e2c5b10350de "AWS Knowledge: Cloud Essentials")
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/150x150/images/4163dc96-eec3-49c2-87b3-6a98172e160c/image.png)](https://www.credly.com/earner/earned/badge/dec40d7a-11f1-46af-8d36-fa006209ed36 "AWS Knowledge: Migration Foundations")
 [![AWS Knowledge: Migration Foundations](https://images.credly.com/size/150x150/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](https://www.credly.com/earner/earned/badge/d8a6e4f8-bff0-4483-ba5d-c10bb2bf8685 "AWS Knowledge: Networking Core")
 [![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/150x150/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png)](https://www.credly.com/badges/90c8487d-7264-4f4c-9b69-f512ab61a7dd "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
