@@ -34,7 +34,9 @@ Let’s do this together!
 [![AWS Learning: AWS for Games: Cloud Game Development](https://images.credly.com/size/150x150/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](https://www.credly.com/badges/a2450a87-54d6-4cf0-99ca-22163530f33a "AWS Learning: AWS for Games: Cloud Game Development")
 [![AWS Learning: Architecting](https://images.credly.com/size/150x150/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/ad2082cf-bf19-4054-ab27-89e762a8f24d "AWS Learning: Architecting")
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/150x150/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/ebbd0494-5d31-4498-b36c-65478a4e3421 "Microsoft 365 Certified: Fundamentals")
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://www.credly.com/badges/6871ee3c-b12a-4965-830c-ff744532c723/ "Microsoft Certified: Azure Fundamentals")
+<a href="https://www.credly.com/badges/6871ee3c-b12a-4965-830c-ff744532c723" title="Microsoft Certified: Azure Fundamentals">
+    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Microsoft Certified: Azure Fundamentals">
+</a>
 [![Verified International Academic Qualifications](https://images.credly.com/size/150x150/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](https://www.credly.com/badges/3dd7feaa-a182-4ed3-beb8-a639b086f46e "Verified International Academic Qualifications")
 
 <a href="https://app.daily.dev/heyValdemar"><img src="https://github.com/heyvaldemar/heyvaldemar/blob/main/devcard.svg" width="300" alt="Vladimir Mikhalev's Dev Card"/></a>
