@@ -19,25 +19,74 @@ Let’s do this together!
 💬 Join my DevOps community on [Discord](https://discord.gg/AJQGCCBcqf)
 
 # My Digital Badges
-[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/150x150/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](https://www.credly.com/earner/earned/badge/783a1521-96ea-4b65-88d8-07b60ace292b "AWS Knowledge: Cloud Essentials")
-[![AWS Knowledge: Networking Core](https://images.credly.com/size/150x150/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](https://www.credly.com/earner/earned/badge/a2ff9320-0300-4de9-b218-e2c5b10350de "AWS Knowledge: Cloud Essentials")
-[![AWS Knowledge: Networking Core](https://images.credly.com/size/150x150/images/4163dc96-eec3-49c2-87b3-6a98172e160c/image.png)](https://www.credly.com/earner/earned/badge/dec40d7a-11f1-46af-8d36-fa006209ed36 "AWS Knowledge: Migration Foundations")
-[![AWS Knowledge: Migration Foundations](https://images.credly.com/size/150x150/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](https://www.credly.com/earner/earned/badge/d8a6e4f8-bff0-4483-ba5d-c10bb2bf8685 "AWS Knowledge: Networking Core")
-[![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/150x150/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png)](https://www.credly.com/badges/90c8487d-7264-4f4c-9b69-f512ab61a7dd "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
-[![AWS Knowledge: Data Protection & Disaster Recovery](https://images.credly.com/size/150x150/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png)](https://www.credly.com/badges/4cb0819a-c1ce-4aa5-91b6-5cdf3f468c09 "AWS Knowledge: Data Protection & Disaster Recovery")
-[![AWS Knowledge: Storage Core](https://images.credly.com/size/150x150/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png)](https://www.credly.com/badges/746a22ee-90dd-49e6-810b-9536b33674f1 "AWS Knowledge: Storage Core")
-[![AWS Knowledge: File Storage](https://images.credly.com/size/150x150/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](https://www.credly.com/badges/6d56e0ce-c018-42a1-a2e4-d8dac6d1b078 "AWS Knowledge: File Storage")
-[![AWS Knowledge: Block Storage](https://images.credly.com/size/150x150/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png)](https://www.credly.com/badges/f591e5d9-47f0-4044-99e2-602abbdbaf80/public_url "AWS Knowledge: Block Storage")
-[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/150x150/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)](https://www.credly.com/badges/46c5f968-242e-477b-977a-4daf01092377 "HashiCorp Certified: Terraform Associate")
-[![AWS Learning: Serverless](https://images.credly.com/size/150x150/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](https://www.credly.com/badges/800efbf2-3767-469b-8743-f14db219b304 "AWS Learning: Serverless")
-[![AWS Learning: Object Storage](https://images.credly.com/size/150x150/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](https://www.credly.com/badges/21282a86-30df-4054-a552-569eca1c100f "AWS Learning: Object Storage")
-[![AWS Learning: AWS for Games: Cloud Game Development](https://images.credly.com/size/150x150/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](https://www.credly.com/badges/a2450a87-54d6-4cf0-99ca-22163530f33a "AWS Learning: AWS for Games: Cloud Game Development")
-[![AWS Learning: Architecting](https://images.credly.com/size/150x150/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/ad2082cf-bf19-4054-ab27-89e762a8f24d "AWS Learning: Architecting")
-[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/150x150/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/ebbd0494-5d31-4498-b36c-65478a4e3421 "Microsoft 365 Certified: Fundamentals")
+
+<a href="https://www.credly.com/earner/earned/badge/783a1521-96ea-4b65-88d8-07b60ace292b" title="AWS Knowledge: Amazon EKS">
+    <img src="https://images.credly.com/size/680x680/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/a2ff9320-0300-4de9-b218-e2c5b10350de" title="AWS Knowledge: Cloud Essentials">
+    <img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Cloud Essentials">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/dec40d7a-11f1-46af-8d36-fa006209ed36" title="AWS Knowledge: Migration Foundations">
+    <img src="https://images.credly.com/size/680x680/images/4163dc96-eec3-49c2-87b3-6a98172e160c/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Migration Foundations">
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/d8a6e4f8-bff0-4483-ba5d-c10bb2bf8685" title="AWS Knowledge: Networking Core">
+    <img src="https://images.credly.com/size/680x680/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Networking Core">
+</a>
+
+<a href="https://www.credly.com/badges/90c8487d-7264-4f4c-9b69-f512ab61a7dd" title="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations">
+    <img src="https://images.credly.com/size/680x680/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations">
+</a>
+
+<a href="https://www.credly.com/badges/4cb0819a-c1ce-4aa5-91b6-5cdf3f468c09" title="AWS Knowledge: Data Protection & Disaster Recovery">
+    <img src="https://images.credly.com/size/680x680/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Data Protection & Disaster Recovery">
+</a>
+
+<a href="https://www.credly.com/badges/746a22ee-90dd-49e6-810b-9536b33674f1" title="AWS Knowledge: Storage Core">
+    <img src="https://images.credly.com/size/680x680/images/4c6a3c3a-e1dd-46f7-bcaf-cc69b817042e/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Storage Core">
+</a>
+
+<a href="https://www.credly.com/badges/6d56e0ce-c018-42a1-a2e4-d8dac6d1b078" title="AWS Knowledge: File Storage">
+    <img src="https://images.credly.com/size/680x680/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: File Storage">
+</a>
+
+<a href="https://www.credly.com/badges/f591e5d9-47f0-4044-99e2-602abbdbaf80/public_url" title="AWS Knowledge: Block Storage">
+    <img src="https://images.credly.com/size/680x680/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Block Storage">
+</a>
+
+<a href="https://www.credly.com/badges/46c5f968-242e-477b-977a-4daf01092377" title="HashiCorp Certified: Terraform Associate (003)">
+    <img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="HashiCorp Certified: Terraform Associate (003)">
+</a>
+
+<a href="https://www.credly.com/badges/800efbf2-3767-469b-8743-f14db219b304" title="AWS Knowledge: Serverless">
+    <img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Serverless">
+</a>
+
+<a href="https://www.credly.com/badges/21282a86-30df-4054-a552-569eca1c100f" title="AWS Knowledge: Object Storage">
+    <img src="https://images.credly.com/size/680x680/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Object Storage">
+</a>
+
+<a href="https://www.credly.com/badges/a2450a87-54d6-4cf0-99ca-22163530f33a" title="AWS Knowledge: AWS for Games: Cloud Game Development">
+    <img src="https://images.credly.com/size/680x680/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: AWS for Games: Cloud Game Development">
+</a>
+
+<a href="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" title="AWS Knowledge: Architecting">
+    <img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Architecting">
+</a>
+
+<a href="https://www.credly.com/badges/ebbd0494-5d31-4498-b36c-65478a4e3421" title="Microsoft 365 Certified: Fundamentals">
+    <img src="https://images.credly.com/size/680x680/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Microsoft 365 Certified: Fundamentals">
+</a>
+
 <a href="https://www.credly.com/badges/6871ee3c-b12a-4965-830c-ff744532c723" title="Microsoft Certified: Azure Fundamentals">
     <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Microsoft Certified: Azure Fundamentals">
 </a>
-[![Verified International Academic Qualifications](https://images.credly.com/size/150x150/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png)](https://www.credly.com/badges/3dd7feaa-a182-4ed3-beb8-a639b086f46e "Verified International Academic Qualifications")
+
+<a href="https://www.credly.com/badges/3dd7feaa-a182-4ed3-beb8-a639b086f46e" title="Verified International Academic Qualifications">
+    <img src="https://images.credly.com/size/680x680/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Verified International Academic Qualifications">
+</a>
 
 <a href="https://app.daily.dev/heyValdemar"><img src="https://github.com/heyvaldemar/heyvaldemar/blob/main/devcard.svg" width="300" alt="Vladimir Mikhalev's Dev Card"/></a>
 
