@@ -1,5 +1,5 @@
 # https://github.com/dailydotdev/action-devcard
-name: c
+name: DevCard
 
 permissions:
   contents: write
