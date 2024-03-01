@@ -1,5 +1,5 @@
 # https://github.com/dailydotdev/action-devcard
-name: DevCard
+name: c
 
 permissions:
   contents: write
@@ -21,4 +21,5 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@3.1.0
         with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          user_id: ${{ secrets.USER_ID }}
+          commit_message: "chore: update ${filename}"
