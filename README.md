@@ -20,6 +20,8 @@ Let’s do this together!
 
 # My Digital Badges
 
+<a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
+
 <a href="https://www.credly.com/earner/earned/badge/783a1521-96ea-4b65-88d8-07b60ace292b" title="AWS Knowledge: Amazon EKS">
     <img src="https://images.credly.com/size/680x680/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
 </a>
@@ -87,8 +89,6 @@ Let’s do this together!
 <a href="https://www.credly.com/badges/3dd7feaa-a182-4ed3-beb8-a639b086f46e" title="Verified International Academic Qualifications">
     <img src="https://images.credly.com/size/680x680/images/0ab5b829-02ae-4a73-ac82-ab9798fb76e9/157a788a3a7d3880f574c2cdaf0b97d5.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Verified International Academic Qualifications">
 </a>
-
-<a href="https://app.daily.dev/heyValdemar"><img src="https://github.com/heyvaldemar/heyvaldemar/blob/main/devcard.svg" width="300" alt="Vladimir Mikhalev's Dev Card"/></a>
 
 - [Badge Verificaton](https://www.credly.com/users/heyvaldemar/badges)
 - [Full List of My Badges and Certificates](https://www.heyvaldemar.com/vladimir-mikhalev/)
