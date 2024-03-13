@@ -22,19 +22,19 @@ Let’s do this together!
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
-<a href="https://www.credly.com/earner/earned/badge/783a1521-96ea-4b65-88d8-07b60ace292b" title="AWS Knowledge: Amazon EKS">
+<a href="https://www.credly.com/badges/783a1521-96ea-4b65-88d8-07b60ace292b" title="AWS Knowledge: Amazon EKS">
     <img src="https://images.credly.com/size/680x680/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/a2ff9320-0300-4de9-b218-e2c5b10350de" title="AWS Knowledge: Cloud Essentials">
+<a href="https://www.credly.com/badges/a2ff9320-0300-4de9-b218-e2c5b10350de" title="AWS Knowledge: Cloud Essentials">
     <img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Cloud Essentials">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/dec40d7a-11f1-46af-8d36-fa006209ed36" title="AWS Knowledge: Migration Foundations">
+<a href="https://www.credly.com/badges/dec40d7a-11f1-46af-8d36-fa006209ed36" title="AWS Knowledge: Migration Foundations">
     <img src="https://images.credly.com/size/680x680/images/4163dc96-eec3-49c2-87b3-6a98172e160c/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Migration Foundations">
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/d8a6e4f8-bff0-4483-ba5d-c10bb2bf8685" title="AWS Knowledge: Networking Core">
+<a href="https://www.credly.com/badges/d8a6e4f8-bff0-4483-ba5d-c10bb2bf8685" title="AWS Knowledge: Networking Core">
     <img src="https://images.credly.com/size/680x680/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Networking Core">
 </a>
 
@@ -54,7 +54,7 @@ Let’s do this together!
     <img src="https://images.credly.com/size/680x680/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: File Storage">
 </a>
 
-<a href="https://www.credly.com/badges/f591e5d9-47f0-4044-99e2-602abbdbaf80/public_url" title="AWS Knowledge: Block Storage">
+<a href="https://www.credly.com/badges/f591e5d9-47f0-4044-99e2-602abbdbaf80" title="AWS Knowledge: Block Storage">
     <img src="https://images.credly.com/size/680x680/images/bd6f25a2-b7ac-4b4c-ae4c-887864ba105e/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Block Storage">
 </a>
 
@@ -74,7 +74,7 @@ Let’s do this together!
     <img src="https://images.credly.com/size/680x680/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: AWS for Games: Cloud Game Development">
 </a>
 
-<a href="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" title="AWS Knowledge: Architecting">
+<a href="https://www.credly.com/badges/ad2082cf-bf19-4054-ab27-89e762a8f24d" title="AWS Knowledge: Architecting">
     <img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Architecting">
 </a>
 
