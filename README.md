@@ -22,6 +22,10 @@ Let’s do this together!
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
+<a href="https://www.credly.com/badges/73fbb725-0c90-405f-bf74-ff4c4bafd9da" title="GitHub Advanced Security">
+    <img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="GitHub Foundations">
+</a>
+
 <a href="https://www.credly.com/badges/4e7fcd73-0dd7-42c4-a15a-fbf3d087ec06" title="GitHub Foundations">
     <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="GitHub Foundations">
 </a>
