@@ -18,9 +18,35 @@ Let’s do this together!
 🌐 Check out my [website](https://www.heyvaldemar.com/) with extremely detailed IT guides\
 💬 Join my DevOps community on [Discord](https://discord.gg/AJQGCCBcqf)
 
+# Recognized by Docker CEO
+
+At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linkedin.com/in/scottcjohnston/), acknowledged my exceptional leadership and contributions.
+
+🎥 Watch the full video to see the transformative impact we're making!
+
+<p align="left">
+  <a href="https://youtu.be/NAv1e36PTB8">
+    <img src="https://www.heyvaldemar.com/images/articles/vladimir-mikhalev-recognized-by-docker-ceo/vladimir-mikhalev-recognized-by-docker-ceo.jpg" alt="Vladimir Mikhalev recognized by Docker CEO" width="64%">
+  </a>
+</p>
+
+# My 2D Portfolio
+
+Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art portfolio inviting you to interact with elements that encapsulate the milestones of my DevOps career.
+
+# My Recommendations
+
+📕 Check out my collection of [essential DevOps books](https://kit.co/heyValdemar/essential-devops-books)\
+🖥️ Check out my [studio streaming and recording kit](https://kit.co/heyValdemar/my-studio-streaming-and-recording-kit)\
+📡 Check out my [streaming starter kit](https://kit.co/heyValdemar/streaming-starter-kit)
+
 # My Digital Badges
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
+
+<a href="https://www.credly.com/badges/c3b4b3e0-1691-4ae3-8215-03d63d0b9a5c" title="GitHub Advanced Security">
+    <img src="https://images.credly.com/size/680x680/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Deep Learning Essentials">
+</a>
 
 <a href="https://www.credly.com/badges/73fbb725-0c90-405f-bf74-ff4c4bafd9da" title="GitHub Advanced Security">
     <img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="GitHub Foundations">
