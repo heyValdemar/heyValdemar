@@ -44,12 +44,16 @@ Click into [sre.gg](https://www.sre.gg/) — my virtual space is a 2D pixel-art 
 
 <a href="https://app.daily.dev/heyvaldemar"><img src="https://api.daily.dev/devcards/v2/ft0iS8AcGd90jdHVINKGp.png?type=wide&r=24q" width="652" alt="Vladimir Mikhalev's Dev Card"/></a>
 
-<a href="https://www.credly.com/badges/c3b4b3e0-1691-4ae3-8215-03d63d0b9a5c" title="GitHub Advanced Security">
+<a href="https://www.credly.com/earner/earned/badge/7d576a72-4a50-47bb-a85c-d21d4fb0a271" title="AWS Knowledge: Events and Workflows">
+    <img src="https://images.credly.com/size/680x680/images/65b806c9-c09d-4125-bfb0-8fc87f4699ac/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Events and Workflows">
+</a>
+
+<a href="https://www.credly.com/badges/c3b4b3e0-1691-4ae3-8215-03d63d0b9a5c" title="Deep Learning Essentials">
     <img src="https://images.credly.com/size/680x680/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Deep Learning Essentials">
 </a>
 
 <a href="https://www.credly.com/badges/73fbb725-0c90-405f-bf74-ff4c4bafd9da" title="GitHub Advanced Security">
-    <img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="GitHub Foundations">
+    <img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="GitHub Advanced Security">
 </a>
 
 <a href="https://www.credly.com/badges/4e7fcd73-0dd7-42c4-a15a-fbf3d087ec06" title="GitHub Foundations">
