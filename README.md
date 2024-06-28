@@ -22,7 +22,7 @@ Let’s do this together!
 
 At the Docker Captains Summit, Docker's CEO, [Scott Johnston](https://www.linkedin.com/in/scottcjohnston/), acknowledged my exceptional leadership and contributions.
 
-🎥 Watch the full video to see the transformative impact we're making!
+🎥 [Watch the full video](https://youtu.be/NAv1e36PTB8) to see the transformative impact we're making!
 
 <p align="left">
   <a href="https://youtu.be/NAv1e36PTB8">
